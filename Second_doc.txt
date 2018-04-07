@@ -1,3 +1,5 @@
 this is second example of git
 this change is made by akhil annayaaaaa
 this is fourth change by akhil
+ this is second commit by bubby
+after merging by akhil
